@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Tekurt";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/tekur/Tektur-Regular.ttf") format("truetype");
+    font-weight: bold; 
+    font-style: normal;
+}
+@font-face {
+    font-family: "Rochester";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/Rochester/Rochester-Regular.ttf") format("truetype");
+    font-weight: bold; 
+    font-style: normal;
+}
+@font-face {
+    font-family: "Frankcancela";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/Frankcancela/Bytesized-Regular.ttf") format("truetype");
+    font-weight: bold; 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "CONIDEA";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/CONIDEA/CONIDEA.ttf") format("truetype");
+    font-weight: bold; 
+    font-style: normal;
+}
+@font-face {
+    font-family: "DMENTE";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/DMENTE/DMENTE.ttf") format("truetype");
+    font-weight: bolder; 
+    font-style: normal;
+}
+@font-face {
+    font-family: "ENPAGOS";
+    src: url("/LETRAS/TIPOS_DE_LETRAS/PAGOS/WDL.ttf") format("truetype");
+    font-weight: bold; 
+    font-style: normal;
+}
+
